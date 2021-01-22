@@ -29,4 +29,5 @@ public class PlayerMovement : MonoBehaviour
             FindObjectOfType<Game_Manager>().EndGame();
         }
     }
+
 }

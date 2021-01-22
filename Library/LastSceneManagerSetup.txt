@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Obstacles.unity
+- path: Assets/downloadedAssets/Christmas-Assets-FREE/Example-Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
