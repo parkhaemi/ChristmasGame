@@ -10,8 +10,24 @@ public class SceneChange : MonoBehaviour
         SceneManager.LoadScene("SelectMap");
     }
 
-    public void ChangeFirstScene()
+    public void ChangeSecondScene()
     {
-        SceneManager.LoadScene("Level01");
+        SceneManager.LoadScene("Level02");
     }
+    public void ChangeThirdScene()
+    {
+        SceneManager.LoadScene("Level03");
+    }
+    public void ChangeFourthScene()
+    {
+        SceneManager.LoadScene("Level04");
+    }
+    public void ChangeFifthScene()
+    {
+        SceneManager.LoadScene("Level05");
+    }
+
+    
+    
+
 }
