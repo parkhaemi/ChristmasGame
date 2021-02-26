@@ -8,6 +8,6 @@ public class Score : MonoBehaviour
 
     void Update()
     {
-        scoreText.text = player.position.z.ToString("0");   
+        scoreText.text = (1000 - player.position.z).ToString("0");
     }
 }

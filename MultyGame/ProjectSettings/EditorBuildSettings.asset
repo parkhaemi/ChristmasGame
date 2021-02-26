@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Mirror/Examples/Pong/Scenes/Scene.unity
+    guid: 89a84548859e3b643b4fb27984dc2b0d
+  - enabled: 0
+    path: Assets/Mirror/Examples/AdditiveScenes/Scenes/MainScene.unity
+    guid: 7a0eee2f518e9dc4fb628d96dc452faf
+  - enabled: 1
+    path: Assets/christmasgame_tmp.unity
+    guid: f84ace35628374306b1cda760aac4d05
+  m_configObjects: {}
