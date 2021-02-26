@@ -6,27 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
-    guid: 4b5588a6c30a73a40bc510dc4412db09
+    path: Assets/Scenes/MainMenu.unity
+    guid: a0f33cfb11de3465b962bad072d26c2d
   - enabled: 1
-    path: Assets/Scenes/Level05.unity
+    path: Assets/Scenes/MainGame.unity
+    guid: 5c0232b64e93142f596e5bcd4e21d3b9
+  - enabled: 0
+    path: Assets/Scenes/levels/StartScene.unity
+    guid: 4b5588a6c30a73a40bc510dc4412db09
+  - enabled: 0
+    path: Assets/Scenes/levels/Level05.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Scenes/Level04.unity
+  - enabled: 0
+    path: Assets/Scenes/levels/Level04.unity
     guid: 3c402642e3d845646911e05661833f5c
-  - enabled: 1
-    path: Assets/Scenes/Level03.unity
+  - enabled: 0
+    path: Assets/Scenes/levels/Level03.unity
     guid: b746edb2003e0484796e670833aaa6b0
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Scenes/SelectMap.unity
+  - enabled: 0
+    path: Assets/Scenes/levels/SelectMap.unity
     guid: a30d96ac472c3f048bc591d5fd5761ee
-  - enabled: 1
-    path: Assets/Scenes/Credits.unity
+  - enabled: 0
+    path: Assets/Scenes/levels/Credits.unity
     guid: 6c384d64a33b2604aaea450d8f73279a
   m_configObjects: {}
